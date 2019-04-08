@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 5%;
+}
+
+li {
+    margin-top: 1em;
+}
